@@ -1,4 +1,4 @@
-## Go api to create index in elastic search
+## Go api to create index in elastic search and read config from yaml file
 
 - first install go package to create connection with elastic search
 
