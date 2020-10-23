@@ -10,6 +10,5 @@
 - use curl to post json content into elasticsearch 
  
 ``` 
-curl --header "Content-Type: application/json"   --request POST   --data '{"Id":"33","Title":"test", "desc":"content","content":"anything3"}'   http://localhost:10000/article
-
+curl --header "Content-Type: application/json"   --request POST   --data '{"Id":"1","Class":3, "Sec":"A","Year":2014}'   http://localhost:10000/article
 ``` 
